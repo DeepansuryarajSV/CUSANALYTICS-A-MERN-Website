@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;700;800&display=swap');
+
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+.container{
+    display: flex;
+    gap: 10rem;
+}
+.Home__section{
+    /* background-color: red; */
+    width: fit-content;
+    margin-left: 20%;
+    margin-top: 30vh;
+}
+.welcome{
+    font-weight: 800;
+    font-size: 6rem;
+    color: rgb(6, 38, 93);
+}
+.red{
+    color: red;
+}
+.home-pic{
+    width: 40vw;
+}

@@ -1,0 +1,12 @@
+.about-body{
+    width: fit-content;
+    margin-left: 50vw;
+    margin-top: 35vh;
+    transform: translate(-50%,-35%);
+    text-align: center;
+    
+}
+.about-details{
+    list-style-type: disc;
+    font-size: 2rem;
+}
