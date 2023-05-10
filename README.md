@@ -1,4 +1,4 @@
-# Mobilicis---Assignment
+# CUSANALYTICS - A MERN Website
 
 ***
 - Used MERN Stack for the developemnt
